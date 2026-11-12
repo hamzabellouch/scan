@@ -6,7 +6,7 @@
 Scan physical documents, detect corners automatically, apply crisp filters, and convert between PDF, Word (.docx), TXT, and images 100% on-device.
 </p>
 
-
+<img width="2730" height="1536" alt="Scan" src="https://github.com/user-attachments/assets/bc55c121-054e-42b0-a5fc-0c88cf6052ad" />
 
 ## Overview
 
