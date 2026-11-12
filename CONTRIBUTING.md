@@ -1,0 +1,75 @@
+# Contributing
+
+Thank you for your interest in contributing to **Scan**! Scan is an Android application built with Kotlin and Jetpack Compose designed for document scanning, automatic edge detection, image enhancement filters, local library management, and on-device PDF/Word/TXT conversion.
+
+Before submitting a bug report or feature request, please search existing issues (including closed ones) to ensure it hasn't already been reported or discussed. If there are no duplicates, feel free to submit a new issue using the appropriate template.
+
+**Please note:** Issues that do not use existing templates or lack sufficient detail may be closed without review.
+
+For questions or any other ideas to improve, you can join our official e-mail : hamzabellouchcontact@gmail.com or [Social Media platforms](https://sites.google.com/view/hamzabellouch/).
+
+
+
+## Disclaimer
+
+Scan is an active Android project focused on providing a clean, fast, and privacy-first document scanning and conversion tool. While we strive for code quality and reliability, contributions and feedback are always welcome to improve performance and user experience.
+
+
+
+## Bug Reports
+
+When submitting a bug report, please make sure your issue contains **sufficient information** to reproduce the problem. Useful details include:
+
+- Device model and Android version
+- Scan app version
+- Granted permission states (Camera, Storage/Media, Notifications)
+- Steps to reproduce the bug
+- System logs (logcat) or screenshots if applicable
+
+
+
+## Feature Requests
+
+Scan aims to remain a fast, privacy-focused, and lightweight document scanner and converter utility for Android. We welcome suggestions that enhance edge detection accuracy, export quality, UI responsiveness, or offline document conversion capabilities.
+
+When suggesting a new feature, please consider:
+- **Relevance:** Does the feature fit the core goal of document scanning, library management, or offline document conversion?
+- **Privacy & Safety:** Does it preserve on-device processing and user privacy without requiring unsafe permissions?
+- **Simplicity:** We prefer clean, intuitive features over overly complex options that bloat the user interface.
+
+
+
+## Pull Requests
+
+If you wish to contribute directly by submitting code:
+
+1. **Discuss First:** Leave a comment under an existing issue or open a new issue describing the changes you plan to make before writing code.
+2. **Avoid Conflicts:** Comment on the issue to let others know you are working on it to prevent duplicate efforts.
+3. **Follow Code Style:** Ensure your code follows modern Kotlin conventions and Jetpack Compose best practices.
+
+
+
+## New Contributors
+
+If you are new to the project:
+- Browse our open issues for beginner-friendly tasks marked as `good first issue` or `help wanted`.
+- Feel free to ask clarifying questions directly on the issue thread!
+
+
+
+## Building From Source
+
+To build Scan locally:
+
+1. **Prerequisites:**
+   - [Android Studio](https://developer.android.com/studio) (latest stable or preview release)
+   - JDK 17 or higher
+   - Android SDK API Level 24+
+
+2. **Steps:**
+   ```bash
+   # Clone the repository
+   git clone https://github.com/hamzabellouch/scan.git
+
+   # Open the project in Android Studio and sync Gradle files
+   ```
